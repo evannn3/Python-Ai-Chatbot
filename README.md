@@ -9,7 +9,7 @@ Model --> https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 
 ## Features
 
--'Tell me a joke function' to keep users entertained and add humanistic realism.
+- 'Tell me a joke function' to keep users entertained and add humanistic realism.
 - Memory system to remember basic facts about the user.
 - Mimics a young teenager’s texting style, staying relaxed and friendly.
 
