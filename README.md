@@ -17,5 +17,9 @@ Model --> https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 
 Clone this repository and run the bot locally:
 
+## Creator note
+
+I spent a lot of time in this project so I hope someone enjoys it!
+
 ```bash
 python evan_bot.py
